@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<authPaths>
+	<authPath path="OrderServlet" action="statusUpdate"  />
+	<authPath path="CategoryServlet" action="add"  />
+	<authPath path="CategoryServlet" action="delete"  />
+	<authPath path="CategoryServlet" action="update"  />
+	<authPath path="BookServlet" action="add"  />
+	<authPath path="BookServlet" action="delete"  />
+	<authPath path="BookServlet" action="update"  />
+</authPaths>

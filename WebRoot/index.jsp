@@ -1,0 +1,1 @@
+<jsp:forward page="BookServlet?action=pageQuery"></jsp:forward>
